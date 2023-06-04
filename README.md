@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranshfly&label=Profile%20views&color=0e75b6&style=flat" alt="rudranshfly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudranshfly" alt="rudranshfly" /></a> </p>
-
+<img src="https://drive.google.com/file/d/14bzr58QeDLsRVHgLjO6Jd8cmqY2fGv8-/view?usp=sharing" alt="g">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter & Kotlin**
