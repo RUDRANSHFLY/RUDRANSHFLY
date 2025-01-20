@@ -22,8 +22,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranshfly&show_icons=true&locale=en&layout=compact" alt="rudranshfly" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudranshfly&show_icons=true&locale=en" alt="rudranshfly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshfly&" alt="rudranshfly" /></p>
